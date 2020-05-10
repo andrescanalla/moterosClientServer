@@ -1,54 +1,17 @@
 {
-  "clientList":[
+  "posts": [
     {
       "id": 1,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"      
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"      
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"
-      
-    },
-    {
-      "id": 4,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"      
-    },
-    {
-      "id": 5,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"      
-    },
-    {
-      "id": 6,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"      
-    },
-    {
-      "id": 7,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"      
-    },
-    {
-      "id": 8,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"      
-    },    
+      "title": "Post 3"
+    }
   ],
   "comments": [
     {
