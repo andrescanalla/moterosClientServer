@@ -1,6 +1,5 @@
 {
-  "clientList":[
-    01:[
+  "clientList":
     {
       "id": 1,
       "title": "titulo",
@@ -49,15 +48,7 @@
       "title": "titulo",
       "imagen": "https://picsum.photos/200/300",
       "comentrio":"Comentario"      
-    }],
-    02:[{
-      "id": 6,
-      "title": "titulo",
-      "imagen": "https://picsum.photos/200/300",
-      "comentrio":"Comentario"
-      
-    }],
-    
+    },    
   ],
   "comments": [
     {
