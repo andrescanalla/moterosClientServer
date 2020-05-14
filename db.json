@@ -61,32 +61,7 @@
             "uri": "https://communitybuy.com.ar/fotospooles/8436fotog_home.jpg"
         }
     ],
-    "pedidos": {
-    "historial": [
-            {
-                "id": 1,
-                "body": "some comment",
-                "postId": 1
-            },
-            {
-                "id": 2,
-                "body": "some comment",
-                "postId": 1
-            }
-        ],
-   "activo": [
-            {
-                "id": 1,
-                "body": "some comment",
-                "postId": 1
-            },
-            {
-                "id": 2,
-                "body": "some comment",
-                "postId": 1
-            }
-        ]
-    },
+    
     "profile": {
         "name": "typicode"
     }
