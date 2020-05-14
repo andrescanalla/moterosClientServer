@@ -61,7 +61,22 @@
             "uri": "https://communitybuy.com.ar/fotospooles/8436fotog_home.jpg"
         }
     ],
-    
+    "pedidos":[{
+        "id":1,
+        "numero":21321,
+        "state":"En camino",
+        "Total":21323
+        "items":[
+            {"id": 23,
+             "title":"hamburger",
+             "price":2323,             
+            },
+            "id": 24,
+             "title":"hamburger22",
+             "price":22,             
+            }   
+              ]
+    }],    
     "profile": {
         "name": "typicode"
     }
