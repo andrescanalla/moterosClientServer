@@ -91,12 +91,18 @@
                 "items": [
                     {
                         "id": 23,
-                        "title": "torta",
+                        "title": "Torta",
+                        "cant":1,
+                        "image":"https://communitybuy.com.ar/fotospooles/9194fotog_home.jpg",
+                        "client":"Il` Postino",
                         "price": 2323
                     },
                     {
                         "id": 24,
-                        "title": "caramelo",
+                        "title": "Caramelo",
+                        "cant":2,
+                        "image":"https://communitybuy.com.ar/fotospooles/9194fotog_home.jpg",
+                        "client":"Il` Postino",
                         "price": 22
                     }
                 ]
