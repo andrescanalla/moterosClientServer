@@ -30,7 +30,7 @@
       "title": "franchute restaurante",
        "uri":"https://picsum.photos/200/300"
     },
-{
+    {
       "id": 7,
       "title": "Post 1",
       "uri":"http://lorempixel.com/200/200/food"
@@ -62,7 +62,8 @@
     }
     
   ],
-  "comments": [
+  "pedidos": {
+    historial:[
     {
       "id": 1,
       "body": "some comment",
@@ -74,6 +75,19 @@
       "postId": 1
     }
   ],
+   activo:[
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  },
   "profile": {
     "name": "typicode"
   }
