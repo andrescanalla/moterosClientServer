@@ -61,23 +61,48 @@
             "uri": "https://communitybuy.com.ar/fotospooles/8436fotog_home.jpg"
         }
     ],
-    "pedidos":[{
-        "id":1,
-        "numero":21321,
-        "state":"En camino",
-        "Total":21323,
-        "items":[
-            {"id": 23,
-             "title":"hamburger",
-             "price":2323             
-            },
+    "pedidos": {
+        "historial": [
             {
-            "id": 24,
-             "title":"hamburger22",
-             "price":22            
-            }   
-              ]
-    }],    
+                "id": 1,
+                "numero": 21321,
+                "state": "Entregado",
+                "Total": 21323,
+                "items": [
+                    {
+                        "id": 23,
+                        "title": "hamburger",
+                        "price": 2323
+                    },
+                    {
+                        "id": 24,
+                        "title": "hamburger22",
+                        "price": 22
+                    }
+                ]
+            }
+        ],
+        "actual": [
+            {
+                "id": 12,
+                "numero": 245666,
+                "state": "En camino",
+                "Total": 54556,
+                "items": [
+                    {
+                        "id": 23,
+                        "title": "torta",
+                        "price": 2323
+                    },
+                    {
+                        "id": 24,
+                        "title": "caramelo",
+                        "price": 22
+                    }
+                ]
+            }
+        ]
+    },
     "profile": {
         "name": "typicode"
     }
