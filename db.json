@@ -69,11 +69,12 @@
         "items":[
             {"id": 23,
              "title":"hamburger",
-             "price":2323,             
+             "price":2323             
             },
+            {
             "id": 24,
              "title":"hamburger22",
-             "price":22,             
+             "price":22            
             }   
               ]
     }],    
