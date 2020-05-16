@@ -167,7 +167,7 @@
             { "url": "https://communitybuy.com.ar/fotospooles/8502fotog_home.jpg" },
             { "url": "https://communitybuy.com.ar/fotospooles/8503fotog_home.jpg" },
             { "url": "https://communitybuy.com.ar/fotospooles/8504fotog_home.jpg" },
-            { "url": "https://communitybuy.com.ar/fotospooles/8505fotog_home.jpg" },
+            { "url": "https://communitybuy.com.ar/fotospooles/8505fotog_home.jpg" }
           ],
           "category": [
             { "title": "Comida", "icon": "food", "id": 1 },
@@ -181,7 +181,7 @@
             { "title": "Farmacia", "icon": "pharmacy", "id": 9 },
             { "title": "Almacen", "icon": "basket", "id": 10 },
             { "title": "Pagos", "icon": "credit-card", "id": 11 },
-            { "title": "home", "icon": "home", "id": 12 },
+            { "title": "home", "icon": "home", "id": 12 }
           ]
         }
     
