@@ -157,9 +157,70 @@
             }
         ]
     },
-    "profile": {
-        "name": "typicode"
+    "product": { "client":{
+    "image":"http://lorempixel.com/200/200/food",
+    "title": "il' Rigatzzo",
+    "subtitle":"Los mejores Rigatzzo de la Ciudad"
+  },
+  "query": [
+    {
+      "id": 1,
+      "image": "https://communitybuy.com.ar/fotospooles/8431fotog_home.jpg",
+      "title": "CAT CHOW ADULTO DELI MIX X 8 KG.",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 1555
     },
+    {
+      "id": 2,
+      "image": "https://communitybuy.com.ar/fotospooles/9194fotog_home.jpg",
+      "title": "Latas Stella Artois",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 315
+    },
+    {
+      "id": 3,
+      "image": "https://communitybuy.com.ar/fotospooles/9069fotog_home.jpg",
+      "title": "COMPLETE PERRO ADULTO RMG CARNE X 20 KG",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 1720
+    },
+    {
+      "id": 4,
+      "image": "https://communitybuy.com.ar/fotospooles/7853fotog_home.jpg",
+      "title": "Huggies Active Sec G68",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 950
+    },
+    {
+      "id": 5,
+      "image": "https://communitybuy.com.ar/fotospooles/8431fotog_home.jpg",
+      "title": "CAT CHOW ADULTO DELI MIX X 8 KG.",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 1555
+    },
+    {
+      "id": 6,
+      "image": "https://communitybuy.com.ar/fotospooles/9194fotog_home.jpg",
+      "title": "Latas Stella Artois",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 315
+    },
+    {
+      "id": 7,
+      "image": "https://communitybuy.com.ar/fotospooles/9069fotog_home.jpg",
+      "title": "COMPLETE PERRO ADULTO RMG CARNE X 20 KG",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 1720
+    },
+    {
+      "id": 8,
+      "image": "https://communitybuy.com.ar/fotospooles/7853fotog_home.jpg",
+      "title": "Huggies Active Sec G68",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque erat quam",
+      "communityPrice": 950
+    }
+  ]
+},
         "home":{
           "image": [
             { "url": "https://communitybuy.com.ar/fotospooles/8500fotog_home.jpg" },
